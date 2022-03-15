@@ -10,7 +10,7 @@ _Project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/9-yoga/
+Site published at: https://github.com/TomUrin/9-yoga
 
 Design: [Yoga](https://dribbble.com/shots/6857288/attachments/6857288-Yoga-studio-web-ui-concept?mode=media)
 ## Project features
