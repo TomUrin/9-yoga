@@ -9,10 +9,13 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 Site published at: https://github.com/TomUrin/9-yoga
 
 Design: [Yoga](https://dribbble.com/shots/6857288/attachments/6857288-Yoga-studio-web-ui-concept?mode=media)
+
 ## Project features
 
 -   Github pages
--   CSS: float, width
+-   fixed width container
+-   header: logo + nav
+-   png images
 
 ## Authors
 
