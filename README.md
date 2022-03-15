@@ -20,4 +20,4 @@ Design: [Yoga](https://dribbble.com/shots/6857288/attachments/6857288-Yoga-studi
 
 ## Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Tomas: [Github](https://github.com/TomUrin)
